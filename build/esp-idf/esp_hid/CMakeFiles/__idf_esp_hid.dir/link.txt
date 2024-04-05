@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp_hid.a CMakeFiles/__idf_esp_hid.dir/src/esp_hidd.c.o CMakeFiles/__idf_esp_hid.dir/src/esp_hidh.c.o CMakeFiles/__idf_esp_hid.dir/src/esp_hid_common.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp_hid.a

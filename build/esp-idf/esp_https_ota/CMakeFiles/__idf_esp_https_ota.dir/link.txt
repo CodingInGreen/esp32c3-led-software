@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp_https_ota.a CMakeFiles/__idf_esp_https_ota.dir/src/esp_https_ota.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp_https_ota.a

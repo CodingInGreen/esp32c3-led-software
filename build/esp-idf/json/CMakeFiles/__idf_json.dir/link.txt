@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libjson.a CMakeFiles/__idf_json.dir/cJSON/cJSON.c.o CMakeFiles/__idf_json.dir/cJSON/cJSON_Utils.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libjson.a

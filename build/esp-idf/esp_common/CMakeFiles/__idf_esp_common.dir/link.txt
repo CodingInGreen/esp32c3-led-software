@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp_common.a CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp_common.a

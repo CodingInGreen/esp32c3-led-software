@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libvfs.a CMakeFiles/__idf_vfs.dir/vfs.c.o CMakeFiles/__idf_vfs.dir/vfs_eventfd.c.o CMakeFiles/__idf_vfs.dir/vfs_uart.c.o CMakeFiles/__idf_vfs.dir/vfs_semihost.c.o CMakeFiles/__idf_vfs.dir/vfs_console.c.o CMakeFiles/__idf_vfs.dir/vfs_usb_serial_jtag.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libvfs.a

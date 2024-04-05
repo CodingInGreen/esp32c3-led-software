@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp_local_ctrl.a CMakeFiles/__idf_esp_local_ctrl.dir/src/esp_local_ctrl.c.o CMakeFiles/__idf_esp_local_ctrl.dir/src/esp_local_ctrl_handler.c.o "CMakeFiles/__idf_esp_local_ctrl.dir/proto-c/esp_local_ctrl.pb-c.c.o" CMakeFiles/__idf_esp_local_ctrl.dir/src/esp_local_ctrl_transport_httpd.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp_local_ctrl.a

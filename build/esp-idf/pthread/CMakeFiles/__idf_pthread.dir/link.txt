@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libpthread.a CMakeFiles/__idf_pthread.dir/pthread.c.o CMakeFiles/__idf_pthread.dir/pthread_cond_var.c.o CMakeFiles/__idf_pthread.dir/pthread_local_storage.c.o CMakeFiles/__idf_pthread.dir/pthread_rwlock.c.o CMakeFiles/__idf_pthread.dir/pthread_semaphore.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libpthread.a

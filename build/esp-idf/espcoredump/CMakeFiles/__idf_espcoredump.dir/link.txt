@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libespcoredump.a CMakeFiles/__idf_espcoredump.dir/src/core_dump_common.c.o CMakeFiles/__idf_espcoredump.dir/src/core_dump_checksum.c.o CMakeFiles/__idf_espcoredump.dir/src/core_dump_flash.c.o CMakeFiles/__idf_espcoredump.dir/src/core_dump_uart.c.o CMakeFiles/__idf_espcoredump.dir/src/core_dump_elf.c.o CMakeFiles/__idf_espcoredump.dir/src/core_dump_binary.c.o CMakeFiles/__idf_espcoredump.dir/src/port/riscv/core_dump_port.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libespcoredump.a

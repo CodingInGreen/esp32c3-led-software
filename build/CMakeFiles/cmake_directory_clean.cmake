@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "config/sdkconfig.h"
+  "config/sdkconfig.cmake"
+  "bootloader/bootloader.elf"
+  "bootloader/bootloader.bin"
+  "bootloader/bootloader.map"
+  "esp32c3-led-software.bin"
+  "flash_project_args"
+  "esp32c3-led-software.map"
+  "project_elf_src_esp32c3.c"
+)

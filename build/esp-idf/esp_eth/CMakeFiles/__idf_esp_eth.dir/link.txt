@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp_eth.a CMakeFiles/__idf_esp_eth.dir/src/esp_eth.c.o CMakeFiles/__idf_esp_eth.dir/src/esp_eth_phy_802_3.c.o CMakeFiles/__idf_esp_eth.dir/src/esp_eth_netif_glue.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp_eth.a

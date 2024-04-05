@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/__idf_newlib.dir/abort.c.o"
+  "CMakeFiles/__idf_newlib.dir/abort.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/assert.c.o"
+  "CMakeFiles/__idf_newlib.dir/assert.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/getentropy.c.o"
+  "CMakeFiles/__idf_newlib.dir/getentropy.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/heap.c.o"
+  "CMakeFiles/__idf_newlib.dir/heap.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/locks.c.o"
+  "CMakeFiles/__idf_newlib.dir/locks.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/newlib_init.c.o"
+  "CMakeFiles/__idf_newlib.dir/newlib_init.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/poll.c.o"
+  "CMakeFiles/__idf_newlib.dir/poll.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/port/esp_time_impl.c.o"
+  "CMakeFiles/__idf_newlib.dir/port/esp_time_impl.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/pthread.c.o"
+  "CMakeFiles/__idf_newlib.dir/pthread.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/random.c.o"
+  "CMakeFiles/__idf_newlib.dir/random.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/realpath.c.o"
+  "CMakeFiles/__idf_newlib.dir/realpath.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/reent_init.c.o"
+  "CMakeFiles/__idf_newlib.dir/reent_init.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/stdatomic.c.o"
+  "CMakeFiles/__idf_newlib.dir/stdatomic.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/syscalls.c.o"
+  "CMakeFiles/__idf_newlib.dir/syscalls.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/sysconf.c.o"
+  "CMakeFiles/__idf_newlib.dir/sysconf.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/termios.c.o"
+  "CMakeFiles/__idf_newlib.dir/termios.c.o.d"
+  "CMakeFiles/__idf_newlib.dir/time.c.o"
+  "CMakeFiles/__idf_newlib.dir/time.c.o.d"
+  "libnewlib.a"
+  "libnewlib.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/__idf_newlib.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

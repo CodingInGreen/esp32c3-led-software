@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libprotobuf-c.a "CMakeFiles/__idf_protobuf-c.dir/protobuf-c/protobuf-c/protobuf-c.c.o"
+/Library/Developer/CommandLineTools/usr/bin/ranlib libprotobuf-c.a

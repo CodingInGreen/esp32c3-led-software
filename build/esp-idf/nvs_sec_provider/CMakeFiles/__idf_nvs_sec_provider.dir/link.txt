@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libnvs_sec_provider.a CMakeFiles/__idf_nvs_sec_provider.dir/nvs_sec_provider.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libnvs_sec_provider.a

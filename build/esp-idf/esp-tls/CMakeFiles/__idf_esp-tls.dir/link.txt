@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp-tls.a "CMakeFiles/__idf_esp-tls.dir/esp_tls.c.o" "CMakeFiles/__idf_esp-tls.dir/esp-tls-crypto/esp_tls_crypto.c.o" "CMakeFiles/__idf_esp-tls.dir/esp_tls_error_capture.c.o" "CMakeFiles/__idf_esp-tls.dir/esp_tls_mbedtls.c.o"
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp-tls.a

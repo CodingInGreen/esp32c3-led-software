@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libeverest.a CMakeFiles/everest.dir/library/everest.c.o CMakeFiles/everest.dir/library/x25519.c.o CMakeFiles/everest.dir/library/Hacl_Curve25519_joined.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libeverest.a

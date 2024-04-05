@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp_wifi.a CMakeFiles/__idf_esp_wifi.dir/src/mesh_event.c.o CMakeFiles/__idf_esp_wifi.dir/src/smartconfig.c.o CMakeFiles/__idf_esp_wifi.dir/src/wifi_init.c.o CMakeFiles/__idf_esp_wifi.dir/src/wifi_default.c.o CMakeFiles/__idf_esp_wifi.dir/src/wifi_netif.c.o CMakeFiles/__idf_esp_wifi.dir/src/wifi_default_ap.c.o CMakeFiles/__idf_esp_wifi.dir/esp32c3/esp_adapter.c.o CMakeFiles/__idf_esp_wifi.dir/src/smartconfig_ack.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp_wifi.a

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmbedtls.a CMakeFiles/__idf_mbedtls.dir/esp_crt_bundle/esp_crt_bundle.c.o CMakeFiles/__idf_mbedtls.dir/__/__/x509_crt_bundle.S.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmbedtls.a

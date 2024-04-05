@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp_coex.a CMakeFiles/__idf_esp_coex.dir/esp32c3/esp_coex_adapter.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp_coex.a

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libsdmmc.a CMakeFiles/__idf_sdmmc.dir/sdmmc_cmd.c.o CMakeFiles/__idf_sdmmc.dir/sdmmc_common.c.o CMakeFiles/__idf_sdmmc.dir/sdmmc_init.c.o CMakeFiles/__idf_sdmmc.dir/sdmmc_io.c.o CMakeFiles/__idf_sdmmc.dir/sdmmc_mmc.c.o CMakeFiles/__idf_sdmmc.dir/sdmmc_sd.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libsdmmc.a

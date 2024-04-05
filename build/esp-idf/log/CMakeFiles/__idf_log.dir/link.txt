@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblog.a CMakeFiles/__idf_log.dir/log.c.o CMakeFiles/__idf_log.dir/log_buffers.c.o CMakeFiles/__idf_log.dir/log_freertos.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblog.a

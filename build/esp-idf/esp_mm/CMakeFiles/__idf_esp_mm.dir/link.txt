@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp_mm.a CMakeFiles/__idf_esp_mm.dir/esp_mmu_map.c.o CMakeFiles/__idf_esp_mm.dir/port/esp32c3/ext_mem_layout.c.o CMakeFiles/__idf_esp_mm.dir/esp_cache.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp_mm.a

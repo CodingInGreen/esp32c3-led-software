@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp_bootloader_format.a CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp_bootloader_format.a

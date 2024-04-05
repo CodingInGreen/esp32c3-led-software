@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libriscv.a CMakeFiles/__idf_riscv.dir/instruction_decode.c.o CMakeFiles/__idf_riscv.dir/interrupt.c.o CMakeFiles/__idf_riscv.dir/vectors.S.o CMakeFiles/__idf_riscv.dir/vectors_intc.S.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libriscv.a

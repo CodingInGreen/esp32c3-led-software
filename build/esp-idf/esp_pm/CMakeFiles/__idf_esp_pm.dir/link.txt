@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libesp_pm.a CMakeFiles/__idf_esp_pm.dir/pm_locks.c.o CMakeFiles/__idf_esp_pm.dir/pm_trace.c.o CMakeFiles/__idf_esp_pm.dir/pm_impl.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libesp_pm.a
