@@ -73,15 +73,15 @@ esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.o: esp
 esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.o: /Users/adamh/esp/esp-idf/components/esp_app_format/esp_app_desc.c
 esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.o: esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/adamh/Dev/esp32c3-led-software/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.o"
-	cd /Users/adamh/Dev/esp32c3-led-software/build/esp-idf/esp_app_format && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) -D PROJECT_NAME=\"esp32c3-led-software\" -DPROJECT_VER=\"ee4b3f7-dirty\" $(C_INCLUDES) $(C_FLAGS) -MD -MT esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.o -MF CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.o.d -o CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.o -c /Users/adamh/esp/esp-idf/components/esp_app_format/esp_app_desc.c
+	cd /Users/adamh/Dev/esp32c3-led-software/build/esp-idf/esp_app_format && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) -D PROJECT_NAME=\"esp32c3-led-software\" -DPROJECT_VER=\"7573208-dirty\" $(C_INCLUDES) $(C_FLAGS) -MD -MT esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.o -MF CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.o.d -o CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.o -c /Users/adamh/esp/esp-idf/components/esp_app_format/esp_app_desc.c
 
 esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.i"
-	cd /Users/adamh/Dev/esp32c3-led-software/build/esp-idf/esp_app_format && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) -D PROJECT_NAME=\"esp32c3-led-software\" -DPROJECT_VER=\"ee4b3f7-dirty\" $(C_INCLUDES) $(C_FLAGS) -E /Users/adamh/esp/esp-idf/components/esp_app_format/esp_app_desc.c > CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.i
+	cd /Users/adamh/Dev/esp32c3-led-software/build/esp-idf/esp_app_format && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) -D PROJECT_NAME=\"esp32c3-led-software\" -DPROJECT_VER=\"7573208-dirty\" $(C_INCLUDES) $(C_FLAGS) -E /Users/adamh/esp/esp-idf/components/esp_app_format/esp_app_desc.c > CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.i
 
 esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.s"
-	cd /Users/adamh/Dev/esp32c3-led-software/build/esp-idf/esp_app_format && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) -D PROJECT_NAME=\"esp32c3-led-software\" -DPROJECT_VER=\"ee4b3f7-dirty\" $(C_INCLUDES) $(C_FLAGS) -S /Users/adamh/esp/esp-idf/components/esp_app_format/esp_app_desc.c -o CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.s
+	cd /Users/adamh/Dev/esp32c3-led-software/build/esp-idf/esp_app_format && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) -D PROJECT_NAME=\"esp32c3-led-software\" -DPROJECT_VER=\"7573208-dirty\" $(C_INCLUDES) $(C_FLAGS) -S /Users/adamh/esp/esp-idf/components/esp_app_format/esp_app_desc.c -o CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.s
 
 # Object files for target __idf_esp_app_format
 __idf_esp_app_format_OBJECTS = \

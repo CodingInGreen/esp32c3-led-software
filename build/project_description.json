@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "esp32c3-led-software",
-    "project_version":    "ee4b3f7-dirty",
+    "project_version":    "7573208-dirty",
     "project_path":       "/Users/adamh/Dev/esp32c3-led-software",
     "idf_path":           "/Users/adamh/esp/esp-idf",
     "build_dir":          "/Users/adamh/Dev/esp32c3-led-software/build",
